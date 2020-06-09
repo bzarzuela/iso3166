@@ -1,11 +1,11 @@
 {
-    "name": "league/iso3166",
+    "name": "bzarzuela/iso3166",
     "description": "ISO 3166-1 PHP Library",
     "autoload": {
-        "psr-4": { "League\\ISO3166\\": "src" }
+        "psr-4": { "Bzarzuela\\ISO3166\\": "src" }
     },
     "autoload-dev": {
-        "psr-4": { "League\\ISO3166\\": "tests" }
+        "psr-4": { "Bzarzuela\\ISO3166\\": "tests" }
     },
     "require": {
         "php": "^7.0"
@@ -28,6 +28,9 @@
     "authors": [{
         "name": "Rob Bast",
         "email": "rob.bast@gmail.com"
+    },{
+        "name": "Bryan Zarzuela",
+        "email": "bryan@teleserv.ph"
     }],
     "support": {
         "issues": "https://github.com/thephpleague/iso3166/issues",

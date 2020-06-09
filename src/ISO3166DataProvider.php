@@ -7,7 +7,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace League\ISO3166;
+namespace Bzarzuela\ISO3166;
 
 interface ISO3166DataProvider
 {

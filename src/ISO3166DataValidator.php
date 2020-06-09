@@ -7,9 +7,9 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace League\ISO3166;
+namespace Bzarzuela\ISO3166;
 
-use League\ISO3166\Exception\DomainException;
+use Bzarzuela\ISO3166\Exception\DomainException;
 
 final class ISO3166DataValidator
 {
