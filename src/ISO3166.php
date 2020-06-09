@@ -2146,7 +2146,7 @@ final class ISO3166 implements \Countable, \IteratorAggregate, ISO3166DataProvid
             ],
         ],
         [
-            'name' => 'Taiwan (Province of China)',
+            'name' => 'Taiwan',
             'alpha2' => 'TW',
             'alpha3' => 'TWN',
             'numeric' => '158',
